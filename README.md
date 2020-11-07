@@ -51,10 +51,10 @@ A fully functional demo is available at [CoreUI](http://coreui.io/vue/)
 
 ``` bash
 # clone the repo
-$ git clone https://github.com/coreui/coreui-free-vue-admin-template.git CoreUI-Vue
+$ git clone https://github.com/aofserver/FontendEgat.git FontendEgat
 
 # go into app's directory
-$ cd CoreUI-Vue
+$ cd FontendEgat
 
 # install app's dependencies
 $ npm install
